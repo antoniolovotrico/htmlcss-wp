@@ -53,6 +53,7 @@ ul li a:hover {
 header {
   width: 100%;
   height: 300px;
+  margin-top: 20px;
   background-image: url(../img/natural-default-header.jpg);
   background-size: cover;
   border: 5px solid white;
